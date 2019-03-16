@@ -6,7 +6,7 @@ baseurl: "/accent"
 
 # This will show up at the top of index page
 site_heading: >
-    foo <span class="faded">'s blog</span>
+    경진 <span class="faded">'s blog</span>
 
 email: your@email.com
 author: yourname
