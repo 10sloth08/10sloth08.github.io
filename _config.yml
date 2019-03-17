@@ -13,7 +13,7 @@ author: 10sloth08
 # This description will show up in google search results
 # (for index page) etc.
 description: >
-    accent is, as Trump would put it, the best
+    
 
 # This will what will show against &copy; in the footer
 copyright: accent
@@ -58,7 +58,7 @@ tracking_id: UA-69243698-7 # GA Tracking ID
 
 # Social Stuff | open graph and twitter cards
 og_image: "images/accent.png" # This will show in facebook thumbnails
-twitter_image: "http://ankitsultana.com/images/accent.png?1234" # This will show in twitter cards
+twitter_image: "http://10sloth08.github.io/images/date1.jpeg" # This will show in twitter cards
 
 ####################################
 ####################################
