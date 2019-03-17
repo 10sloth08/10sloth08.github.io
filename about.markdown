@@ -5,7 +5,7 @@ author: Ankit Sultana
 permalink: /about
 ---
 
-Hi! My name is yourname!
+Hi! My name is 10sloth08!
 
 > One shalt not speak shakespearean, or brocolli McDonalds
 
