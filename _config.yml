@@ -8,8 +8,8 @@ baseurl: "" #/accent
 site_heading: >
     경진 <span class="faded">'s blog</span>
 
-email: your@email.com
-author: yourname
+email: pokly0908@naver.com
+author: 10sloth08
 # This description will show up in google search results
 # (for index page) etc.
 description: >
@@ -33,6 +33,7 @@ permalink: /:title.html
 
 # Comments are powered by disqus
 comments: true
+disqus-shortname: 10sloth08
 
 # keep about_stub roughly 12 words long for best results
 # This will show up at the bottom of each post
